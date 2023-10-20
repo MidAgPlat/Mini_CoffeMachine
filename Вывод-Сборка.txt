@@ -1,0 +1,6 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: CoffeMachine, Конфигурация: Debug Win32 ------
+1>MyForm.cpp
+1>Americano.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+1>CoffeMachine.vcxproj -> C:\Users\makee\source\repos\CoffeMachine\Debug\CoffeMachine.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
